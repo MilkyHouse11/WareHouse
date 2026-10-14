@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="dfa731d5-1d13-46b2-963b-f3fe4227a73e">
+  <producedTypes>
+    <refType typeId="c40e9fff-1d93-477b-a720-0829858a9f78" valueTypeId="02e4ab9e-9ac9-4fea-a50f-105afadfa23e"/>
+    <listType typeId="4e773b81-3c33-4472-bc56-098d307e3cdc" valueTypeId="e6e88145-ac3d-43cd-932d-087631d46a94"/>
+    <managerType typeId="bff9d056-718a-4dff-a8c0-f2e4a1d3a8ae" valueTypeId="5ce2625b-bb31-4313-b2e7-3c9256af23b2"/>
+  </producedTypes>
+  <name>ТипСклада</name>
+  <synonym>
+    <key>ru</key>
+    <value>Тип склада</value>
+  </synonym>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+  <enumValues uuid="379e4261-1268-4881-a6d8-d995733df09c">
+    <name>Оптовый</name>
+    <synonym>
+      <key>ru</key>
+      <value>Оптовый</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="5dd3efe9-9272-42c9-9ca2-442a0c5a18bc">
+    <name>Розничный</name>
+    <synonym>
+      <key>ru</key>
+      <value>Розничный</value>
+    </synonym>
+  </enumValues>
+</mdclass:Enum>
