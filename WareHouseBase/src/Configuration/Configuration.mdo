@@ -45,7 +45,6 @@
   <reports>Report.Остатки</reports>
   <reports>Report.Продажи</reports>
   <dataProcessors>DataProcessor.УвеличитьЦены</dataProcessors>
-  <dataProcessors>DataProcessor.СоздатьТестовыеДанные</dataProcessors>
   <dataProcessors>DataProcessor.СуммаПродаж</dataProcessors>
   <informationRegisters>InformationRegister.ЦеныНоменклатуры</informationRegisters>
   <accumulationRegisters>AccumulationRegister.ОстаткиТоваров</accumulationRegisters>
